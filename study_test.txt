@@ -1,0 +1,7 @@
+print
+print(f)
+print(formatter.format) #ex 8
+input() # ex 11, compare to ex 12
+from sys import argv # ex 13
+ex 15? 16? 17?
+def #ex 18, "define"
