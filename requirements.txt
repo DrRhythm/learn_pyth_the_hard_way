@@ -11,7 +11,7 @@ cliff==2.11.0
 closure-linter==2.3.19
 cmd2==0.7.3
 colorama==0.3.3
-cryptography==2.2.2
+cryptography==3.2
 debtcollector==1.15.0
 decorator==4.0.10
 deprecation==1.0.1
