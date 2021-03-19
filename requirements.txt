@@ -27,7 +27,7 @@ graphviz==0.4.10
 idna==2.5
 ipaddress==1.0.18
 iso8601==0.1.11
-Jinja2==2.9.5
+Jinja2==2.11.3
 jmespath==0.9.0
 jsonpatch==1.16
 jsonpointer==1.10
