@@ -78,7 +78,7 @@ requests==2.18.1
 requests-ntlm==0.3.0
 requestsexceptions==1.2.0
 rfc3986==1.0.0
-rsa==3.3
+rsa==4.1
 s3transfer==0.0.1
 selenium==3.4.0
 simplejson==3.11.1
